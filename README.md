@@ -1,6 +1,6 @@
 # Distilling a Neural Network into a Soft Decision Tree 
 
-This repository presents a notebook containing the necessary code in our attempt to reproduce Google Brain's Team paper Distilling a Neural Network into a Soft Decision Tree (https://arxiv.org/pdf/1711.09784.pdf). The work was done by students of the class INF8225, in Polytechnique Montréal.
+This repository presents a notebook containing the necessary code in our attempt to reproduce Google Brain's Team paper Distilling a Neural Network into a Soft Decision Tree (https://arxiv.org/pdf/1711.09784.pdf). The work was done by students of the class INF8225, in Polytechnique Montréal. To run the entire notebook, **you currently need a GPU** or you'll need to adapt few lines of code.
 
 # Architecture of the Convolutional Network 
 
