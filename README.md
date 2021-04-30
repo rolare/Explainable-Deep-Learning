@@ -32,7 +32,4 @@ This repository presents a notebook containing the necessary code in our attempt
 
 </div>
 
-<span id="tab:accents" label="tab:accents">\[tab:accents\]</span>
-
-
 For further analysis and implementation details, please refer to the pdf report joined to this repository.
